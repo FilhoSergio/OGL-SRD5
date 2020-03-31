@@ -2,7 +2,7 @@
 
 ![D&D Logo](RE&.logo.png)
 
-## Welcome to the online Dungeons & Dragons 5th Edition System Reference Document (SRD) v5.1 Remastered in Markdown Format!
+## Bem-vindo ao Documento de Referência do Sistema (SRD) 5ª Edição da Dungeons & Dragons v5.1 Remasterizado no formato Markdown em PT-BR!
 
 ---
 
