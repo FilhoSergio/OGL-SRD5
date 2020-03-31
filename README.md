@@ -1,4 +1,4 @@
-# OGL-SRD5
+# OGL-SRD5 (PT-BR)
 
 ![D&D Logo](RE&.logo.png)
 
@@ -6,13 +6,13 @@
 
 ---
 
-**Powerful SRD search** of this material available via the project's official website at: [www.ogl-srd5.com](http://ogl-srd5.com)
+**Um Podero SRD(Sistema de Referência de Documento) com sistema de buca** desse material está disponível no site oficial do projeto em: [www.ogl-srd5.com](http://ogl-srd5.com)
 
-**The Systems Reference Document (SRD)** contains guidelines for publishing content under the Open-Gaming License (OGL). The [Dungeon Masters Guild](http://dungeonmastersguild.com/) also provides self-publishing opportunities for individuals and groups. The OGL and Dungeon Masters Guild offer different kinds of publishing opportunities. For an overview of the programs, please visit the official [Wizards SRD page](http://dnd.wizards.com/articles/features/systems-reference-document-srd).
+**O Sistem de Referência de Documento  (SRD)** contém diretrizes para a publicação de conteúdo sob a Open-Gaming License (OGL). 0 [Dungeon Masters Guild](http://dungeonmastersguild.com/) também oferece oportunidades de autopublicação para indivíduos e grupos. O OGL e o Dungeon Masters Guild oferecem diferentes tipos de oportunidades de publicação. Para uma visão geral dos programas, visite a página oficial [Wizards SRD page](http://dnd.wizards.com/articles/features/systems-reference-document-srd).
 
-**Why Markdown format?** Markdown is a lightweight markup language with plain text formatting syntax created by [John Gruber](https://daringfireball.net). It is designed so that it can be converted to HTML and many other formats using any number of various Markdown editors. Markdown is often used to format readme files, for writing books, blogs and messages, or to simply create rich text using a plain text editor.
+**Por que utilizar o formato Markdown?** Markdown uma linguagem simples de marcação originalmente criada  por [John Gruber](https://daringfireball.net). Ele foi projetado para que possa ser convertido em HTML e em muitos outros formatos usando qualquer um de vários editores de texto. O Markdown é frequentemente usado para formatar arquivos READEME.md, escrever livros, blogs e mensagens ou simplesmente criar **rich text**(Texto Rico) usando um editor de texto sem formatação.
 
-**Documents contained herein** are edited from scratch into Markdown format for import into other formats or into your own 5E projects. This is not a simple export as you find elsewhere, we have painstakingly remastered the original Wizard's SRD PDF to markdown paragraph-by-paragraph and **includes all errata from Nov 2018**. Please report any issues you find through this Github account.
+**Documentos presentes no projeto ** are edited from scratch into Markdown format for import into other formats or into your own 5E projects. This is not a simple export as you find elsewhere, we have painstakingly remastered the original Wizard's SRD PDF to markdown paragraph-by-paragraph and **includes all errata from Nov 2018**. Relate quaisquer problemas (**issues**) encontrados nesta conta do Github.
 
 #### Downloads
 
